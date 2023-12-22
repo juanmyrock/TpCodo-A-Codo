@@ -249,7 +249,7 @@
 }
 .form p {
     text-align: left;
-    margin-left: 380px;
+    margin-left: 390px;
     color:#6C757C;
     margin-top: 5px;
 }
@@ -291,10 +291,18 @@
 /****************************************************************************************************/
 /****************************************************************************************************/
 
+.btn-w-100{
+    padding: 2% 40%;
+}
 
+.btn a {
+    color: inherit;      /* Hereda el color del texto del elemento padre */
+    text-decoration: none;  /* Elimina el subrayado */
+}
 
-
-
+.form-control{
+    padding: 1% , 20%;
+}
 
 
 
